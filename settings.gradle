@@ -1,0 +1,2 @@
+rootProject.name = 'Lab1-Java'
+include 'lab1-srv', 'lab1-cli', 'lab1-mes'

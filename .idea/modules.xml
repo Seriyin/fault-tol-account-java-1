@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lab1-Java.iml" filepath="$PROJECT_DIR$/.idea/modules/Lab1-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab1-cli.iml" filepath="$PROJECT_DIR$/.idea/modules/lab1-cli.iml" group="lab1-cli" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab1-cli/lab1-cli_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lab1-cli/lab1-cli_main.iml" group="lab1-cli" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab1-cli/lab1-cli_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lab1-cli/lab1-cli_test.iml" group="lab1-cli" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab1-mes/lab1-mes.iml" filepath="$PROJECT_DIR$/.idea/modules/lab1-mes/lab1-mes.iml" group="lab1-mes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab1-mes/lab1-mes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lab1-mes/lab1-mes_main.iml" group="lab1-mes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab1-mes/lab1-mes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lab1-mes/lab1-mes_test.iml" group="lab1-mes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab1-srv.iml" filepath="$PROJECT_DIR$/.idea/modules/lab1-srv.iml" group="lab1-srv" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab1-srv/lab1-srv_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lab1-srv/lab1-srv_main.iml" group="lab1-srv" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab1-srv/lab1-srv_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lab1-srv/lab1-srv_test.iml" group="lab1-srv" />
+    </modules>
+  </component>
+</project>
