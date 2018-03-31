@@ -1,4 +1,4 @@
-package pt.um.tf.lab0.lab0srv
+package pt.um.tf.lab1.lab1srv
 
 class Account : Bank {
     override fun balance(): Int {

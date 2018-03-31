@@ -1,4 +1,4 @@
-package pt.um.tf.lab0.lab0cli
+package pt.um.tf.lab1.lab1cli
 
 import java.util.concurrent.BlockingQueue
 

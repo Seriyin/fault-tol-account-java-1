@@ -1,4 +1,4 @@
-package pt.um.tf.lab0.lab0cli
+package pt.um.tf.lab1.lab1cli
 
 import io.atomix.catalyst.concurrent.SingleThreadContext
 import io.atomix.catalyst.concurrent.ThreadContext
@@ -6,9 +6,9 @@ import io.atomix.catalyst.serializer.Serializer
 import io.atomix.catalyst.transport.Address
 import io.atomix.catalyst.transport.Transport
 import io.atomix.catalyst.transport.netty.NettyTransport
-import pt.um.tf.lab0.lab0mes.Message
-import pt.um.tf.lab0.lab0mes.Reply
-import pt.um.tf.lab0.lab0srv.Bank
+import pt.um.tf.lab1.lab1mes.Message
+import pt.um.tf.lab1.lab1mes.Reply
+import pt.um.tf.lab1.lab1srv.Bank
 
 class BankFactory {
     private val me = Address("127.0.0.1", 22556)
