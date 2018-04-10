@@ -7,7 +7,7 @@ import io.atomix.catalyst.transport.Connection
 import io.atomix.catalyst.transport.Transport
 import pt.um.tf.lab1.lab1mes.Message
 import pt.um.tf.lab1.lab1mes.Reply
-import pt.um.tf.lab1.lab1srv.Bank
+import pt.um.tf.lab1.lab1mes.Bank
 import java.util.concurrent.CompletableFuture
 
 class BankStub(val me: Address, val t: Transport, val sr: Serializer, val tc: ThreadContext) : Bank {

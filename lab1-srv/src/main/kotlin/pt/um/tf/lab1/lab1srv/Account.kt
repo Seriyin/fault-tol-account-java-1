@@ -1,5 +1,7 @@
 package pt.um.tf.lab1.lab1srv
 
+import pt.um.tf.lab1.lab1mes.Bank
+
 class Account : Bank {
     override fun balance(): Int {
         return balance

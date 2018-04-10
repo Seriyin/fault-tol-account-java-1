@@ -8,7 +8,7 @@ import io.atomix.catalyst.transport.Transport
 import io.atomix.catalyst.transport.netty.NettyTransport
 import pt.um.tf.lab1.lab1mes.Message
 import pt.um.tf.lab1.lab1mes.Reply
-import pt.um.tf.lab1.lab1srv.Bank
+import pt.um.tf.lab1.lab1mes.Bank
 
 class BankFactory {
     private val me = Address("127.0.0.1", 22556)
